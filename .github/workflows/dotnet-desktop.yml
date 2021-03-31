@@ -27,7 +27,7 @@ jobs:
       uses: microsoft/setup-msbuild@v1.0.2
       
     - name: Build App
-      run: dotnet build Xalyus Updater\Xalyus Updater.csproj -c Release
+      run: dotnet build "Xalyus Updater\Xalyus Updater.csproj" -c Release
     
     - name: Test App
-      run: dotnet test Xalyus Updater\Xalyus Updater.csproj
+      run: dotnet test "Xalyus Updater\Xalyus Updater.csproj"
