@@ -198,8 +198,8 @@
 												<TranslateTransform/>
 											</TransformGroup>
 										</LinearGradientBrush.RelativeTransform>
-										<GradientStop Color="#6458FF" Offset="0"/>
-										<GradientStop Color="DodgerBlue" Offset="1"/>
+										<GradientStop Color="#C319FD" Offset="0"/>
+										<GradientStop Color="#4728FF" Offset="1"/>
 									</LinearGradientBrush>
 								</ProgressBar.Foreground>
 							</ProgressBar>
